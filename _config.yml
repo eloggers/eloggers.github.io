@@ -4,13 +4,13 @@ theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : contrast
 
 show_downloads: true
+url                      : https://eloggers.github.io
+
 # google_analytics: "value here
 permalink: /:categories/:year-:month-:day-:title.html
 pages_list:
   Home: '/index'
   Research: '/research'
   Publications: '/publications'
-  About: '/about'
 plugins:
   - jekyll-feed
-github: [metadata]

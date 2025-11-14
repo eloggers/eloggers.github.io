@@ -13,3 +13,5 @@ pages_list:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+

@@ -27,6 +27,13 @@
   border-bottom: 1px solid #222;
 }
 
+.read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+
+/* Normalize icon sizes (GitHub + Scholar) */
 .social-links .icon svg {
   width: 20px;
   height: 20px;
@@ -36,18 +43,15 @@
   margin-right: 6px;
 }
 
+/* Align icons and text */
 .social-links a {
   display: flex;
   align-items: center;
   gap: 6px;
   text-decoration: none;
+  margin: 4px 0;
 }
 
 .social-links a:hover {
   text-decoration: underline;
-}
-
-.read-more {
-    text-transform: uppercase;
-    font-size: 15px;
 }

@@ -4,8 +4,7 @@ layout: default
 
 ## Publications  
 
-3\) **Loggers**, E.A., A. R. Litt, M. A. Haroldson, K. A. Gunther, and F. T. van Manen. 2025. Female and male grizzly bears differ in responses to low-intensity recreation in a protected area. Journal of Wildlife Management: e70068. [_Open Access_] (https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.70068)
-
+3\) **Loggers**, E.A., A. R. Litt, M. A. Haroldson, K. A. Gunther, and F. T. van Manen. 2025. Female and male grizzly bears differ in responses to low-intensity recreation in a protected area. Journal of Wildlife Management: e70068. [_Open Access_](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.70068)
 
 2\) **Loggers**, E.A., A. R. Litt, F. T. van Manen, M. A. Haroldson, and K. A. Gunther. 2024. Grizzly bear responses to restrictions of recreation in Yellowstone National Park. Journal of Wildlife Management: e22527. [_Open Access_](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22527)  
 

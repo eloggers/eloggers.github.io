@@ -18,17 +18,35 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
+
         <p>
-        <img src="images/ski.png" width="200px">
+          <img src="{{ '/images/ski.png' | relative_url }}" width="200">
         </p>
+
         <p class="description">
-          {{ site.description | default: site.github.project_tagline }}
-          <a class="email" href="mailto:elise.loggers@montana.edu">elise.loggers@montana.edu</a>
+          {{ site.description | default: site.github.project_tagline }}<br>
+          <a class="email" href="mailto:elise.loggers@montana.edu">
+            elise.loggers@montana.edu
+          </a>
         </p>
+
         <p class="social-links">
-          <br><a href="https://github.com/eloggers"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">elinck</span></b></a></b>
-          <br><a href="https://scholar.google.com/citations?user=wJd1GhIAAAAJ&hl=en&inst=3477350609057363806"><span class="icon icon--googlescholar">{% include icon-google-scholar.svg %}</span><span class="username">Loggers</span></b></a></b>
-          </p>
+          <br>
+          <a href="https://github.com/eloggers">
+            <span class="icon icon--github">
+              {% include icon-github.svg %}
+            </span>
+            <span class="username">eloggers</span>
+          </a>
+
+          <br>
+          <a href="https://scholar.google.com/citations?user=wJd1GhIAAAAJ&hl=en&inst=3477350609057363806">
+            <span class="icon icon--googlescholar">
+              {% include icon-google-scholar.svg %}
+            </span>
+            <span class="username">Loggers</span>
+          </a>
+        </p>
       </header>
 
       <section>

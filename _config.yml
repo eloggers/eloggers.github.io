@@ -1,12 +1,15 @@
 title: Elise Loggers
 description: Montana State University
 show_downloads: true
-# google_analytics: "value here
+# google_analytics: "value here"
+
 permalink: /:categories/:year-:month-:day-:title.html
+
 pages_list:
-  Home: '/index'
-  Research: '/research'
-  Publications: '/publications'
+  Home: "/index"
+  Research: "/research"
+  Publications: "/publications"
+
 plugins:
   - jekyll-feed
-github: [metadata]
+  - jekyll-remote-theme

@@ -1,11 +1,6 @@
 title: Elise Loggers
 description: Montana State University
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : contrast
-
 show_downloads: true
-url                      : https://eloggers.github.io
-
 # google_analytics: "value here
 permalink: /:categories/:year-:month-:day-:title.html
 pages_list:
@@ -14,3 +9,4 @@ pages_list:
   Publications: '/publications'
 plugins:
   - jekyll-feed
+github: [metadata]

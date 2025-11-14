@@ -1,5 +1,8 @@
 title: Elise Loggers
 description: Montana State University
+theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 show_downloads: true
 # google_analytics: "value here
 permalink: /:categories/:year-:month-:day-:title.html

@@ -27,6 +27,25 @@
   border-bottom: 1px solid #222;
 }
 
+.social-links .icon svg {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  fill: currentColor;
+  margin-right: 6px;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
 
 .read-more {
     text-transform: uppercase;
